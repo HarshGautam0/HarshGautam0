@@ -45,16 +45,16 @@
 
 | Project | Description |
 |---|---|
-| [**Landmark Detection**](https://github.com/HarshGautam0/Landmark_Detection_Machine_learning_model) | Landmark recognition using a VGG19 neural network that classifies images into landmark categories |
-| [**Pet Face Recognition**](https://github.com/HarshGautam0/Pet_Face_Recognition_Machine_learning_model) | A machine learning model for recognizing pet faces |
-| [**Text Classification**](https://github.com/HarshGautam0/Text_Classification_Machine_learning_model-) | Classifies and analyzes IMDb movie reviews |
+| [**Landmark Detection**](https://landmarkai.nexttoken.app/) | Landmark recognition using a VGG19 neural network that classifies images into landmark categories |
+| [**Pet Face Recognition**](https://petrecognizer.nexttoken.app) | A machine learning model for recognizing pet faces |
+| [**Text Classification**](https://imdbsentiment.nexttoken.app/) | Classifies and analyzes IMDb movie reviews |
 
 ### 🌐 Web Development
 
 | Project | Description |
 |---|---|
-| [**FitSphere**](https://github.com/HarshGautam0/FitSphere) | Train smarter, live healthier |
-| [**Iron Club Training**](https://github.com/HarshGautam0/Iron-Club-training) | A fitness tracking app |
+| [**FitSphere**](https://harshgautam0.github.io/FitSphere/) | Train smarter, live healthier |
+| [**Iron Club Training**](https://harshgautam0.github.io/Iron-Club-training/) | A fitness tracking app |
 | [**Portfolio**](https://harshgautam0.github.io/portfolio/) | My personal portfolio website |
 
 ---
