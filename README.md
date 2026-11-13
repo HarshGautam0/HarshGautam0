@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=210&section=header&text=Harsh%20Gautam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ECE%20Engineer%20%7C%20Embedded%20%26%20IoT%20%7C%20Machine%20Learning&descAlignY=60&descSize=17" width="100%" />
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=210&section=header&text=Harsh%20Gautam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ECE%20Engineer%20%7C%20Embedded%20%26%20IoT%20%7C%20Machine%20Learning&descAlignY=60&descSize=17" width="100%" />
 
 ### 🔌 Building hardware that senses, decides and acts &nbsp;•&nbsp; 🧠 ML &nbsp;•&nbsp; 🌐 Web
 
