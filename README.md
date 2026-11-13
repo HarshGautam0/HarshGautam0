@@ -132,12 +132,12 @@ class Harsh:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/harsh-gautam-23625127a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/HarshGautam0/portfolio"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://harshgautam0.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://github.com/HarshGautam0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-*⭐ If you like my work, drop a star on a repo!*
+_⭐ If you like my work, drop a star on a repo!_
 
 </div>
 
